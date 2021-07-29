@@ -58,5 +58,6 @@
 // interface e je method thake setar kono body part thakena.
 // interface ke arekti class e extend korte hoy, then interface e je method thake oigulake override kore kaj korte hoy.
 // multiple interface ekti class e use kora jai.
-// abar interface ke multiple class e use kora jai. 
+// abar interface ke multiple class e use kora jai.
+// interface er sorasori kono object create kora jai na. 
 ?>
