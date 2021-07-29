@@ -6,7 +6,7 @@
         //constant declare 
         const NAME = "Humaun Kabir";
 
-        //rules constant declare
+        //access constant 
         // class_name::const_name;
 
         public function __construct($userName,$userId){
