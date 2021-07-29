@@ -1,4 +1,5 @@
 <?php
+
 class Employee{
 	public $name;
 	public $age;
@@ -40,3 +41,5 @@ $m1 = new Manager("tausif",30,12000);
 
 $e1->info();
 $m1->info();
+
+// if i use final keyword then any class or method won't inherit.
